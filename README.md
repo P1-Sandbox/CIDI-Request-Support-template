@@ -38,7 +38,3 @@ This HTML page can be used on a web server or integrated into a larger website f
 ## File Structure
 
 - `CIDI Request Support.html`: The main HTML file containing the structure and styling for the support request page. It includes inline CSS and an embedded Google Maps iframe.
-
-## License
-
-This project is licensed under the MIT License.
