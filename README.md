@@ -1,10 +1,7 @@
-# CIDI-Request-Support-template
-HTML page for requesting customer and technical support from the Center for Inclusive Design and Innovation (CIDI).
 # CIDI Request Support
 
 This repository contains the HTML page used by the **Center for Inclusive Design and Innovation (CIDI)** for customer and technical support requests. It provides essential contact information, a link to the online support request form, and embedded Google Maps for location details.
 
-![CIDI Logo](https://cidi.gatech.edu/sites/default/files/cidi-logo-2.png)
 
 ## Overview
 
